@@ -1,8 +1,9 @@
 {
-  "name": "wed2-demo",
-  "version": "0.1.0",
+  "name": "react-koulutus-harjoitus",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "octo-sample-api": "github:pasih/yo-harjoitus",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2"
